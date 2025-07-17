@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/benhaotang-mcp-serverman-badge.png)](https://mseep.ai/app/benhaotang-mcp-serverman)
+
 # mcp-serverman: A MCP Server Configuration Manager
 
 [![PyPI - Version](https://img.shields.io/pypi/v/mcp-serverman)](https://pypi.org/project/mcp-serverman/) [![PyPI - Downloads](https://img.shields.io/pypi/dm/mcp-serverman)](https://pypi.org/project/mcp-serverman/) ![](https://badge.mcpx.dev 'MCP') ![](https://badge.mcpx.dev?type=server&features=tools 'MCP server with features') ![PyPI - License](https://img.shields.io/pypi/l/mcp-serverman)
